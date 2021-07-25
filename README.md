@@ -12,4 +12,4 @@ Given when the user can sort employee table by at least one category
 Given when the user can filter employee list by at least one property.
 
 ## Mock Up
-(![This is what my page looks like ](src\Assets\dashboard.png))
+(![This is what my page looks like ](src/Assets/dashboard.png))
