@@ -13,3 +13,5 @@ Given when the user can filter employee list by at least one property.
 
 ## Mock Up
 ![This is what my page looks like ](src/Assets/dashboard.png)
+
+Here is the link to my deployed page: https://marissanancy.github.io/employee-directory-react/
