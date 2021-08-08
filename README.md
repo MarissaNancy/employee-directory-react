@@ -22,4 +22,4 @@ As a user, I want to be able to view the entire employee directory at once so th
 > **To view my application**: visit deployed [Link](https://marissanancy.github.io/my-portfolio/)
 
 ## Mock Up
-![This is what my page looks like ](https://marissanancy.github.io/employee-directory-react/)
+![This is what my page looks like ](/src/Assets/dashboard.png)
