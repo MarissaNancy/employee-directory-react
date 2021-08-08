@@ -19,7 +19,7 @@ As a user, I want to be able to view the entire employee directory at once so th
 - Given when the user can filter employee list by at least one property.
 
 ## Usage 
-> **To view my application**: visit deployed [Link](https://marissanancy.github.io/my-portfolio/)
+> **To view my application**: visit deployed [Link](https://marissanancy.github.io/employee-directory-react/)
 
 ## Mock Up
 ![This is what my page looks like ](/src/Assets/dashboard.png)
